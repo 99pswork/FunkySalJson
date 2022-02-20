@@ -1,1 +1,39 @@
-{"name": "Funky Salamanders #712", "description": "The Funky Salamanders is an NFT brand housed on the ETH blockchain. Our metaworld consists of 2500 NFTs.", "image": "ipfs://QmUqDZHWNXWFAYSiuAF6UbLxxiZKMwg2cdyg54heox4BPG/712.png", "dna": "3f5903e1d5c6b48754d35f7e5914d57887e19223", "edition": 712, "date": 1645215375834, "attributes": [{"trait_type": "background", "value": "Shady"}, {"trait_type": "scales", "value": "NONE"}, {"trait_type": "salamanders", "value": "Jacob"}, {"trait_type": "clothes", "value": "Orange Hoodie"}, {"trait_type": "accessories", "value": "hippie necklace"}, {"trait_type": "eyes", "value": "Cucumber"}, {"trait_type": "headers", "value": "Purple Hat"}], "compiler": "spymate (contact:https://www.fiverr.com/share/qdKvzd)"}
+{
+    "name": "Funky Salamanders #712",
+    "description": "The Funky Salamanders is an NFT brand housed on the ETH blockchain. Our metaworld consists of 2500 NFTs.",
+    "image": "ipfs://QmUqDZHWNXWFAYSiuAF6UbLxxiZKMwg2cdyg54heox4BPG/712.png",
+    "dna": "3f5903e1d5c6b48754d35f7e5914d57887e19223",
+    "edition": 712,
+    "date": 1645215375834,
+    "attributes": [
+        {
+            "trait_type": "background",
+            "value": "Shady"
+        },
+        {
+            "trait_type": "scales",
+            "value": "NONE"
+        },
+        {
+            "trait_type": "salamanders",
+            "value": "Jacob"
+        },
+        {
+            "trait_type": "clothes",
+            "value": "Orange Hoodie"
+        },
+        {
+            "trait_type": "accessories",
+            "value": "hippie necklace"
+        },
+        {
+            "trait_type": "eyes",
+            "value": "Cucumber"
+        },
+        {
+            "trait_type": "headers",
+            "value": "Purple Hat"
+        }
+    ],
+    "compiler": "spymate (contact:https://www.fiverr.com/share/qdKvzd)"
+}
