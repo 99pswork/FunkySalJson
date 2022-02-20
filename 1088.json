@@ -1,0 +1,39 @@
+{
+  "name": "Funky Salamanders #1088",
+  "description": "The Funky Salamanders is an NFT brand housed on the ETH blockchain. Our metaworld consists of 2500 NFTs.",
+  "image": "ipfs://NewUriToReplace/1088.png",
+  "dna": "b531e644de45e6c9d4eca4e6f168bfede975c241",
+  "edition": 1088,
+  "date": 1645215760632,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "Light Green"
+    },
+    {
+      "trait_type": "scales",
+      "value": "NONE"
+    },
+    {
+      "trait_type": "salamanders",
+      "value": "David"
+    },
+    {
+      "trait_type": "clothes",
+      "value": "Purple Hoodie"
+    },
+    {
+      "trait_type": "accessories",
+      "value": "Pipe"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "Sunglasses"
+    },
+    {
+      "trait_type": "headers",
+      "value": "none"
+    }
+  ],
+  "compiler": "spymate (contact:https://www.fiverr.com/share/qdKvzd)"
+}
